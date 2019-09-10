@@ -1,7 +1,9 @@
-#Started Web Project
+# Started Web Project
 
-##Introducción
+## Introducción
 
-##Proposito
+## Proposito
 
-##Como contribucion
+## Desarrollo
+
+## Como contribucion
