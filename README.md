@@ -15,3 +15,6 @@ Un stado, the main propósito simpe proyecto
 Este e un simpoe proyecto para desarrollo
 
 ## Como contribucion
+
+###Copyright
+Rmondejar 2019
