@@ -16,5 +16,7 @@ Este e un simpoe proyecto para desarrollo
 
 ## Como contribucion
 
+Please fork this repository and then issue..
+
 ###Copyright
 Rmondejar 2019
