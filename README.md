@@ -1,6 +1,6 @@
 # Started Web Project
 
-Este es un simple proyecto wet sobre como usar GitHub. Añadimos una línea rebassing
+Este es un simple proyecto wet sobre como usar GitHub. Añadimos una línea rebassing, then más cambios desde myfeature. 
 
 ## Introducción
 
