@@ -1,7 +1,7 @@
 # Started Web Project
 
-Este es un simple proyecto wet sobre como usar GitHub. Añadimos una línea rebassing, then más cambios desde myfeature. 
-
+Este es un simple proyecto wet sobre como usar GitHub. 
+Actualizamos for emergency fix despues stashing
 ## Introducción
 
 Esto es un ejemplo de como mostrar las diferentes partes de un reposotory Git.
