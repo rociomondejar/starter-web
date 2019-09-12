@@ -19,4 +19,4 @@ Este e un simpoe proyecto para desarrollo
 Please fork this repository and then issue..
 
 ###Copyright
-Rmondejar 2019
+Rmondejar 2019. All rights reserved.
